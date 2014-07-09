@@ -1,7 +1,7 @@
 " Use this settings for testing the plugin.
 " Run vim with command
 "
-" $ vim -u debug.py
+" $ vim -u debug.vim
 "
 " Only python-mode will be loaded.
 
